@@ -1,0 +1,5 @@
+http://wiki.sai.corp/pages/viewpage.action?spaceKey=NLP&title=NLP
+
+http://git.sai.corp/projects/NLP/repos/semantic-resources/browse
+
+http://git.sai.corp/projects/NLP/repos/nlp-test-resources/browse
